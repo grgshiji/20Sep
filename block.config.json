@@ -1,0 +1,20 @@
+{
+  "blockId": "q3nE5o8SgJNiUmJA0cQzQ",
+  "name": "20Sep_block1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/20Sep.git",
+    "ssh": "git@github.com:grgshiji/20Sep.git",
+    "branch": "block_20Sep_block1"
+  },
+  "parentBlockIDs": [
+    "YeM3qYd0ocRH5RVtCrtwH"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

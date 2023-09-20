@@ -1,0 +1,16 @@
+{
+  "name": "20Sep",
+  "type": "package",
+  "blockId": "YeM3qYd0ocRH5RVtCrtwH",
+  "source": {
+    "https": "https://github.com/grgshiji/20Sep.git",
+    "ssh": "git@github.com:grgshiji/20Sep.git",
+    "branch": "block_20Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
